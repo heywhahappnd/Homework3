@@ -1,0 +1,19 @@
+#table {
+	width: 300px;
+	height: 300px;
+	border-collapse: collapse;
+}
+
+td {
+	border: 1px solid #000;	
+}
+
+.btn_colorize {
+	background-color: lightyellow;
+	width: 200px;
+	font-family: Verdana;
+	font-size: 12px;
+	padding: 5px;
+	margin: 50px 70px;
+	display: block;
+}
